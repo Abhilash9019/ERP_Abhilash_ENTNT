@@ -28,5 +28,8 @@ Builds the app for production to the `build` folder.<br>
 
 ### `npm run eject`
 
+![Screenshot (27)](https://github.com/Abhilash9019/ERP_Abhilash_ENTNT/assets/92904573/295b3903-3ade-4e64-b90a-220180b66ef1)
+
+
 
 
