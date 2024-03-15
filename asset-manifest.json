@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Abhilash9019/ERP_Abhilash_ENTNT/static/css/main.fa29cb21.css",
+    "main.js": "/Abhilash9019/ERP_Abhilash_ENTNT/static/js/main.74e1b740.js",
+    "static/media/InterMedium.ttf": "/Abhilash9019/ERP_Abhilash_ENTNT/static/media/InterMedium.3f7acfe50aad7ad68548.ttf",
+    "static/media/InterRegular.ttf": "/Abhilash9019/ERP_Abhilash_ENTNT/static/media/InterRegular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/RubikSemiBold.ttf": "/Abhilash9019/ERP_Abhilash_ENTNT/static/media/RubikSemiBold.869208702057daef053d.ttf",
+    "static/media/RubikRomanMedium.ttf": "/Abhilash9019/ERP_Abhilash_ENTNT/static/media/RubikRomanMedium.0e121b4fa4d6e9bc5c69.ttf",
+    "static/media/OpenSans.ttf": "/Abhilash9019/ERP_Abhilash_ENTNT/static/media/OpenSans.b8cc747a58ffa52b7ff9.ttf",
+    "static/media/OpenSansSemiBold.ttf": "/Abhilash9019/ERP_Abhilash_ENTNT/static/media/OpenSansSemiBold.c7ab78a511011d4e147e.ttf",
+    "index.html": "/Abhilash9019/ERP_Abhilash_ENTNT/index.html",
+    "main.fa29cb21.css.map": "/Abhilash9019/ERP_Abhilash_ENTNT/static/css/main.fa29cb21.css.map",
+    "main.74e1b740.js.map": "/Abhilash9019/ERP_Abhilash_ENTNT/static/js/main.74e1b740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa29cb21.css",
+    "static/js/main.74e1b740.js"
+  ]
+}
