@@ -37,6 +37,7 @@ When we launch our app this is the first screen which we get in this we can regi
 Desktop View
 
 ![image](https://github.com/Abhilash9019/ERP_Abhilash_ENTNT/assets/92904573/c36083f0-dfb1-4c56-b382-5d3ddfda31d3)
+
 Mobile View
 
 
@@ -61,6 +62,7 @@ In this page we can view all the products and also add the products  and display
 Desktop View
 
 ![image](https://github.com/Abhilash9019/ERP_Abhilash_ENTNT/assets/92904573/630f709f-c600-404b-a286-f6c80151c6c7)
+
 Mobile View
 
 -Order list Page
