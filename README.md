@@ -48,6 +48,7 @@ After a new user is being registered he can login through the given email id and
 Desktop View
 
 ![image](https://github.com/Abhilash9019/ERP_Abhilash_ENTNT/assets/92904573/5318fd2b-50e6-4698-ab35-3e53951057a4)
+
 Mobile View
 
 -Dashboard  Page:-
