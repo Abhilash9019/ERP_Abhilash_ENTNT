@@ -16,7 +16,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](https://github.com/Abhilash9019/ERP_Abhilash_ENTNT) to view it in the browser.
+Open [https://abhilash9019.github.io/ERP_Abhilash_ENTNT/](https://abhilash9019.github.io/ERP_Abhilash_ENTNT/) to view it in the browser.
 
 ### `npm test`
 
